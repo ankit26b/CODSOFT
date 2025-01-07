@@ -561,7 +561,6 @@ button:hover{
     align-items: center;
     text-align: center;
     gap: 5px;
-    background-color: #EDF483;
     padding: 1%;
     border-radius: 10px;
     width: 100%;
@@ -630,6 +629,7 @@ button:hover{
     align-items: flex-start;
     gap: 5px;
     position: relative;
+    margin-bottom: 40%;
 }
 .project_img{
     position: absolute;
@@ -647,7 +647,7 @@ button:hover{
 .project_info{
     border: 1px solid var(--black-color);
     padding: 5%;
-    padding-top: 20%;
+    padding-top: 10%;
     border-radius: 20px;
 }
 
